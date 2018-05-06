@@ -1,6 +1,6 @@
 ****************iOS REPOSITORY README****************
 
-Contributors:
+**Contributors:**
 Jean Jeon
 
 **********Description**********
